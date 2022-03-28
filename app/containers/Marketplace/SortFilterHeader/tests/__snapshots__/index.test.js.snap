@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SortFilterHeader /> should render and match the snapshot 1`] = `
+<button
+  class="
+        hidden
+        modal-overlay 
+        md:hidden z-20 fixed w-full h-full bg-black opacity-25 top-0 left-0 cursor-pointer"
+  type="submit"
+>
+   
+</button>
+`;

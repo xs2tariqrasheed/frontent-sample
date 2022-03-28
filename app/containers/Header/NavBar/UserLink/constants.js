@@ -1,0 +1,5 @@
+export const UPDATE_USER_FLOWADDRESS = 'app/Login/UPDATE_USER_FLOWADDRESS';
+export const SET_FLOW_ADDRESS = 'app/Header/SET_FLOW_ADDRESS';
+export const SET_FLOW_ADDRESS_NEW_USER = 'app/Header/SET_FLOW_ADDRESS_NEW_USER';
+export const LOAD_MY_MEDALS = 'app/LOAD_MY_MEDALS';
+export const MEDALS_LOADED = 'app/MEDALS_LOADED';

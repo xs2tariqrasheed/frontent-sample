@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ProfileMenu /> should render and match the snapshot 1`] = `
+<div
+  class="styled__NavbarDropdown-sc-359dlj-1 hdVRkf"
+>
+  <span
+    class="styled__GenericLink-sc-359dlj-2 dcBtbm"
+  />
+  <div
+    class="styled__NavbarDropdownContent-sc-359dlj-0 hLQxKZ"
+  >
+    <a
+      class="styled__MyGolfLink-sc-359dlj-4 bXFcLe"
+      href="/clubhouse"
+    >
+      My Clubhouse
+    </a>
+    <div
+      class="styled__GenericMenuItem-sc-359dlj-5 kCgokK"
+    >
+      Migrate to Flow
+    </div>
+    <div
+      style="margin-top: 5px;"
+    />
+    <div
+      class="styled__LogOut-sc-359dlj-3 bJwIyn"
+    >
+      Logout
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,140 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> should render and match the snapshot 1`] = `
+<footer
+  class="styled__Footer-sc-1x6885q-0 cUxGfC"
+>
+  <footer
+    class="container mx-auto px-5 text-white py-12 styled__FooterWrapper-sc-1x6885q-1 kisQZq"
+  >
+    <div
+      class="md:grid grid-cols-12 gap-6 mb-10"
+    >
+      <div
+        class="col-span-1 flex items-center mb-10"
+      >
+        <a
+          href="/"
+        >
+          <img
+            alt="Blocklete Games Logo"
+            src="IMAGE_MOCK"
+          />
+        </a>
+      </div>
+      <nav
+        class="col-span-12 md:col-span-6"
+        role="navigation"
+      >
+        <ul
+          class="md:grid grid-cols-2 grid-flow-row leading-10"
+        >
+          <li
+            class="mb-5"
+          >
+            <a
+              class="hover:underline text-white no-underline text-base font-heavy uppercase tracking-wide"
+              href="/"
+            >
+              Home
+            </a>
+          </li>
+          <li
+            class="mb-5"
+          >
+            <a
+              class="hover:underline text-white no-underline text-base font-heavy uppercase tracking-wide"
+              href="/events"
+            >
+              Play Games
+            </a>
+          </li>
+          <li
+            class="mb-5"
+          >
+            <a
+              class="hover:underline text-white no-underline text-base font-heavy uppercase tracking-wide"
+              href="/faq"
+            >
+              How to Play
+            </a>
+          </li>
+          <li
+            class="mb-5"
+          >
+            <a
+              class="hover:underline text-white no-underline text-base font-heavy uppercase tracking-wide"
+              href="/playtoearn"
+            >
+              Marketplace
+            </a>
+          </li>
+          <li
+            class="mb-5"
+          >
+            <a
+              class="hover:underline text-white no-underline text-base font-heavy uppercase tracking-wide"
+              href="/terms-of-service"
+            >
+              Terms of Service
+            </a>
+          </li>
+          <li
+            class="mb-5"
+          >
+            <a
+              class="hover:underline text-white no-underline text-base font-heavy uppercase tracking-wide"
+              href="/privacy"
+            >
+              Privacy Policy (New)
+            </a>
+          </li>
+        </ul>
+      </nav>
+      <div
+        class="col-span-12 md:col-start-11 md:col-span-2"
+      >
+        <div
+          class="md:text-right"
+        >
+          <a
+            class="styled__SocialLink-sc-1984pln-0 jcYxES"
+            href="https://twitter.com/BlockleteGames"
+            target="_blank"
+          >
+            <i
+              class="fab fa-twitter"
+            />
+          </a>
+          <a
+            class="styled__SocialLink-sc-1984pln-0 jcYxES"
+            href="https://discord.gg/XDJAJdr"
+          >
+            <i
+              class="fab fa-discord"
+            />
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      class="md:grid grid-cols-10 gap-6"
+    >
+      <div
+        class="col-start-2 col-span-12 md:col-span-6"
+      >
+        <p
+          class="text-sm md:text-base text-white tracking-wide"
+        >
+          © 2020 Blocklete Games™. All rights reserved.
+        </p>
+      </div>
+    </div>
+    <div
+      class="styled__Version-sc-1x6885q-4 cObAwi"
+    >
+      4.0.2
+    </div>
+  </footer>
+</footer>
+`;

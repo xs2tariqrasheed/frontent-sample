@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Spinner /> should render and match the snapshot 1`] = `
+<div
+  class="Panel-sc-44axhw-0 elyGcO"
+>
+  <div
+    class="Panel__PanelHeader-sc-44axhw-1 gwYQyg"
+  >
+    Header
+  </div>
+  <div
+    class="Panel__PanelBody-sc-44axhw-2 isMgK"
+  >
+    Hello
+  </div>
+</div>
+`;

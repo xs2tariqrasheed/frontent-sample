@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Text /> should render and match the snapshot 1`] = `
+<div
+  class="styled__Container-sc-9jahnc-0 jXTFgl"
+>
+  <div
+    class="styled__InputWrapper-sc-9jahnc-1 imRJEl"
+  >
+    <input
+      class="false appearance-none bg-white-200 w-full py-3 px-3 text-gray-700 leading-tight focus:outline-none focus:-outline"
+      type="text"
+    />
+  </div>
+</div>
+`;

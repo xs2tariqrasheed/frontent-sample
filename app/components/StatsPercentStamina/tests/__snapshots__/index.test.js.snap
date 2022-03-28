@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<StatsPercent percent={45} /> should render and match the snapshot 1`] = `
+<div
+  class="styled__SkillsWrapper-c8tryu-0 gftKwD"
+>
+  <div
+    class="styled__CurrentSkill-c8tryu-1 ljfeuw"
+    width="45"
+  />
+  <div
+    class="styled__PotentialSkill-c8tryu-2 uPNbt"
+    width="100"
+  />
+  <div
+    class="styled__TotalLine-c8tryu-3 cuIYBW"
+    width="-45"
+  />
+</div>
+`;

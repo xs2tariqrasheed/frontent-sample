@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GolferImage /> should render and match the snapshot 1`] = `
+<div
+  class="relative h-full"
+  style="min-width: 200px;"
+>
+  <img
+    alt="body"
+    class="styled__Avatar-sc-1g9vwal-1 gulTga"
+    src="IMAGE_MOCK"
+  />
+  <img
+    alt="head"
+    class="styled__Avatar-sc-1g9vwal-1 gulTga"
+    src="IMAGE_MOCK"
+  />
+  <img
+    alt="eyebrow"
+    class="styled__Avatar-sc-1g9vwal-1 gulTga"
+    src="IMAGE_MOCK"
+  />
+  <img
+    alt="eyes"
+    class="styled__Avatar-sc-1g9vwal-1 gulTga"
+    src="IMAGE_MOCK"
+  />
+  <img
+    alt="mouth"
+    class="styled__Avatar-sc-1g9vwal-1 gulTga"
+    src="IMAGE_MOCK"
+  />
+  <img
+    alt="hair"
+    class="styled__Avatar-sc-1g9vwal-1 gulTga"
+    src="IMAGE_MOCK"
+  />
+  <img
+    alt="shirt"
+    class="styled__Avatar-sc-1g9vwal-1 gulTga"
+    src="IMAGE_MOCK"
+  />
+  <img
+    alt="pants"
+    class="styled__Avatar-sc-1g9vwal-1 gulTga"
+    src="IMAGE_MOCK"
+  />
+  <img
+    alt="shoe"
+    class="styled__Avatar-sc-1g9vwal-1 gulTga"
+    src="IMAGE_MOCK"
+  />
+  <img
+    alt="driver"
+    class="styled__Avatar-sc-1g9vwal-1 gulTga"
+    src="IMAGE_MOCK"
+  />
+  <img
+    alt="nose"
+    class="styled__Avatar-sc-1g9vwal-1 gulTga"
+    src="IMAGE_MOCK"
+  />
+  <img
+    alt="hat"
+    class="styled__Avatar-sc-1g9vwal-1 gulTga"
+    src="IMAGE_MOCK"
+  />
+</div>
+`;

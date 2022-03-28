@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<EnergyStat /> should render and match the snapshot 1`] = `
+<div
+  class="mb-0"
+>
+  <h2
+    class="flex justify-between uppercase text-white text-lg w-full inline-block mb-1"
+  >
+    Energy
+    <span
+      class=""
+    >
+      60
+      /100
+    </span>
+  </h2>
+  <div
+    class="shadow w-full bg-grey-light mb-1 rounded"
+  >
+    <div
+      class="bg-white text-xs leading-none text-center text-white rounded h-2"
+      style="width: 60%;"
+    />
+  </div>
+  <p
+    class="mt-2 text-sml text-white flex justify-between opacity-50"
+  >
+    Recovery Time
+     
+    <span
+      class="text-right"
+    >
+      635 minutes
+    </span>
+  </p>
+</div>
+`;

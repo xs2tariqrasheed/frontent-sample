@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LearnMore /> should render and match the snapshot 1`] = `
+<div
+  class="bg-green-400 text-white styled__Container-sc-1yjhil0-0 fqBHn"
+>
+  <article
+    class="container mx-auto px-4 py-20"
+  >
+    <div
+      class="sm:grid grid-rows-2 grid-flow-col gap-4"
+    >
+      <section
+        class="row-span-2 md:row-span-2"
+      >
+        <h1
+          class="callout-underline text-4xl font-extrabold uppercase"
+        >
+          How To Play and Earn Cash
+        </h1>
+        <p
+          class="w-3/5 mt-5"
+        >
+          Play golf while you earn! See why people across the globe are testing their digital golf skills for a chance at cash.
+          <br />
+          <a
+            class="triangle-link inline-block mt-6 self-end text-white font-extrabold no-underline uppercase text-sm"
+            href="/faq"
+          >
+            How To Play Blocklete™ Golf
+          </a>
+        </p>
+      </section>
+      <section
+        class="mt-5 mb-10 md:mt-0 md:row-span-1 styled__GolfBallSection-sc-1yjhil0-1 bTKkEI"
+      >
+        <h2>
+          Pick Your Golfer!
+        </h2>
+        <p>
+          Pick the golfer that best suits your game play style. Lesser skilled golfers can grind their way up, while higher skilled golfers are competition ready!
+        </p>
+      </section>
+      <section
+        class="md:row-span-1 mb-10 styled__GolfBallSection-sc-1yjhil0-1 bTKkEI"
+      >
+        <h2>
+          Earn from Training!
+        </h2>
+        <p>
+          List your golfer as a trainer so you can earn cash. Buy a trainer to level up your golfer’s skills to win in competitions.
+        </p>
+      </section>
+      <section
+        class="md:row-span-1 styled__GolfBallSection-sc-1yjhil0-1 bTKkEI"
+      >
+        <h2>
+          Compete for Medals and Cash!
+        </h2>
+        <p>
+          Winning against your competitor’s will earn you medals that level up your golfer or earn you cash prizes. Over $20K in cash prizes were won last season!
+        </p>
+      </section>
+      <section
+        class="md:row-span-1 styled__GolfBallSection-sc-1yjhil0-1 bTKkEI"
+      >
+        <h2>
+          Sell Leveled Up Golfers!
+        </h2>
+        <p>
+          Once you have leveled your golfer up, list it on the marketplace and earn cash back! Rinse, Repeat, Earn!
+        </p>
+      </section>
+    </div>
+  </article>
+</div>
+`;

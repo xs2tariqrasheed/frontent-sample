@@ -1,0 +1,15 @@
+node_modules
+npm-debug.log
+docs
+coverage
+Dockerfile*
+.dockerignore
+README.md
+.github*
+.gitignore
+.gitattributes
+.prettierrc
+.prettierignore
+.editorconfig
+jest.config.js
+stylelintrc

@@ -1,0 +1,2 @@
+export const UPDATE_USER_FLOWADDRESS = 'app/Login/UPDATE_USER_FLOWADDRESS';
+export const SET_FLOW_ADDRESS = 'app/Header/SET_FLOW_ADDRESS';

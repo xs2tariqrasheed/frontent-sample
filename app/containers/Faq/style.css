@@ -1,0 +1,61 @@
+h1 {
+  margin-bottom: 1rem;
+}
+h2 {
+  margin-bottom: 0.5rem;
+}
+h3 {
+  font-weight: bold;
+}
+
+ol {
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  list-style-type: decimal;
+}
+
+ul {
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  list-style-type: circle;
+}
+
+ol li {
+  margin-bottom: 0.5rem;
+}
+
+ul li {
+  margin-bottom: 0.5rem;
+}
+
+img {
+	max-height: 600px;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+p {
+	margin-bottom: 0.5rem;
+}
+
+.floatimage {
+	max-width: 352px;
+	margin-right: 1rem;
+	flex: 1;
+}
+
+.floattext {
+	margin-top: 2rem;
+	max-width: 600px;
+	flex: 1;
+}
+
+.floatdiv {
+	display: flex;
+}
+
+.rank-list li {
+
+}

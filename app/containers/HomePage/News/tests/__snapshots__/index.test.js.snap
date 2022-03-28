@@ -1,0 +1,123 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<About /> should render and match the snapshot 1`] = `
+<div
+  class="styled__Container-og6jsg-0 kZbrPR"
+>
+  <section
+    class="container mx-auto px-5 pt-12 pb-24"
+  >
+    <h1
+      class="text-blueberry callout-underline mb-12 text-4xl tracking-wide font-heavy uppercase"
+    >
+      News & Updates
+    </h1>
+    <div
+      class="sm:grid grid-cols-3 grid-flow-col gap-6"
+    >
+      <article
+        class="bg-white rounded overflow-hidden shadow mb-5 sm:mb-0"
+      >
+        <a
+          class="no-underline"
+          href="https://nonfungible.com/blog/arena-golf-how-to-choose-your-golfers"
+          target="_blank"
+        >
+          <img
+            alt=""
+            class="w-full"
+            src="IMAGE_MOCK"
+          />
+          <h2
+            class="ribbon-cap tracking-wide pl-6 py-1 pr-2 bg-yellow-itas-dark-gold text-itas-dark-purple uppercase text-xs font-heavy"
+          >
+            Nonfungible.com gives tips on choosing golfers
+          </h2>
+          <div
+            class="px-6 py-4"
+          >
+            <h1
+              class="font-bold mb-2 text-sm text-itas-lavender"
+            >
+              How to choose your golfer
+            </h1>
+            <p
+              class="text-sm text-black"
+            >
+              We have identified what we believe to be the best strategy to date to build a great team of golfers.
+            </p>
+          </div>
+        </a>
+      </article>
+      <article
+        class="bg-white rounded overflow-hidden shadow mb-5 sm:mb-0"
+      >
+        <a
+          class="no-underline"
+          href="https://medium.com/in-the-arena-sports/a-deep-dive-into-the-world-of-arena-golf-36d3282df48a"
+          target="_blank"
+        >
+          <img
+            alt=""
+            class="w-full"
+            src="IMAGE_MOCK"
+          />
+          <h2
+            class="ribbon-cap tracking-wide pl-6 py-1 pr-2 bg-yellow-itas-dark-gold text-itas-dark-purple uppercase text-xs font-heavy"
+          >
+            A Deep Dive into Blocklete Games™
+          </h2>
+          <div
+            class="px-6 py-4"
+          >
+            <h1
+              class="font-bold mb-2 text-sm text-itas-lavender"
+            >
+              Check out who we are and what we stand for.
+            </h1>
+            <p
+              class="text-sm text-black"
+            >
+              Blockchain technology is at the core of all of our game and tech solutions because of what it enables — a player-driven game economy.
+            </p>
+          </div>
+        </a>
+      </article>
+      <article
+        class="bg-white rounded overflow-hidden shadow mb-5 sm:mb-0"
+      >
+        <a
+          class="no-underline"
+          href="https://medium.com/in-the-arena-sports/arena-golfs-first-tournament-announcement-cc67e14e42bb"
+          target="_blank"
+        >
+          <img
+            alt=""
+            class="w-full"
+            src="IMAGE_MOCK"
+          />
+          <h2
+            class="ribbon-cap tracking-wide pl-6 py-1 pr-2 bg-yellow-itas-dark-gold text-itas-dark-purple uppercase text-xs font-heavy"
+          >
+            First Tournament Announcement
+          </h2>
+          <div
+            class="px-6 py-4"
+          >
+            <h1
+              class="font-bold mb-2 text-sm text-itas-lavender"
+            >
+              Our first 500 minted golfers have their own tournament!
+            </h1>
+            <p
+              class="text-sm text-black"
+            >
+              Only golfer tokens 1–500 are able to enter this event. The tournament prize pot is set at $1,000!
+            </p>
+          </div>
+        </a>
+      </article>
+    </div>
+  </section>
+</div>
+`;

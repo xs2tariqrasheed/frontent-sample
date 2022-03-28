@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g transform="translate(-24 -2862) translate(16 2854) translate(8 8)">
+                        <circle cx="16" cy="16" r="16" fill="#02001A" fill-opacity=".16"/>
+                        <text fill="#FFF" font-family="RedHatDisplay-Bold, Red Hat Display" font-size="16" font-weight="bold">
+                            <tspan x="11.192" y="22">$</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CkClubCard /> should render and match the snapshot 1`] = `
+<div
+  class="styled__Container-tq8q6d-0 iXdWjj"
+>
+  <div
+    class="styled__ImageContainer-tq8q6d-5 iOBioD"
+    color="#f3ffe6"
+  >
+    <div
+      class="styled__ImageScaler-tq8q6d-1 dHohDI"
+    >
+      <img
+        alt="FounderTag"
+        class="styled__FounderImage-tq8q6d-2 ivJQMe"
+        src="IMAGE_MOCK"
+      />
+      <div
+        class="styled__ImageWrapper-tq8q6d-4 liPFjY"
+      >
+        <div
+          class="styled__ImageFullWrap-tq8q6d-3 kWEmjd"
+        >
+          <div
+            class="relative h-full"
+            style="min-width: 200px;"
+          >
+            <img
+              alt="body"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="head"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="eyebrow"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="eyes"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="mouth"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="hair"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="shirt"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="pants"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="shoe"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="driver"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="nose"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="hat"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

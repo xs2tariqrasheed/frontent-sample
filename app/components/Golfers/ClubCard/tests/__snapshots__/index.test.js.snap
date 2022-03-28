@@ -1,0 +1,298 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ClubCard /> should render and match the snapshot 1`] = `
+<div
+  class="styled__Container-sc-2qqffc-0 eKAdzN"
+>
+  <div
+    class="styled__ImageContainer-sc-2qqffc-5 hUjuwv"
+    color="#f3ffe6"
+  >
+    <div
+      class="styled__ImageScaler-sc-2qqffc-1 grNNWN"
+    >
+      <img
+        alt="FounderTag"
+        class="styled__FounderImage-sc-2qqffc-2 gSpEjh"
+        src="IMAGE_MOCK"
+      />
+      <div
+        class="styled__ImageWrapper-sc-2qqffc-4 eXjkJE"
+      >
+        <div
+          class="styled__ImageFullWrap-sc-2qqffc-3 yIlXV"
+        >
+          <div
+            class="relative h-full"
+            style="min-width: 200px;"
+          >
+            <img
+              alt="body"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="head"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="eyebrow"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="eyes"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="mouth"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="hair"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="shirt"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="pants"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="shoe"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="driver"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="nose"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+            <img
+              alt="hat"
+              class="styled__Avatar-sc-1g9vwal-1 gulTga"
+              src="IMAGE_MOCK"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      class="styled__InfoBlock-sc-2qqffc-10 bRkcGU"
+    >
+      <div>
+        <div
+          class="styled__PlayerLabel-sc-2qqffc-6 ofAzN"
+        >
+          Stamina Player
+        </div>
+        <div
+          class="styled__PlayerNumber-sc-2qqffc-7 iNRwxQ"
+        >
+          #
+          00001
+        </div>
+      </div>
+      <div>
+        <div
+          class="styled__FounderLabel-sc-2qqffc-8 ishcRs"
+        >
+          FOUNDER
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      class="styled__StatsWrapper-sc-2qqffc-11 fgllcv"
+    >
+      <div
+        class="styled__LabelWrapper-sc-2qqffc-12 jktjAx"
+      >
+        <div
+          class="styled__Label-sc-2qqffc-13 eQNKIS"
+        >
+          Power
+        </div>
+        <div
+          class="styled__Stats-sc-2qqffc-14 Keats"
+        >
+          <span
+            class="styled__StatsColor-sc-2qqffc-15 hscUYO"
+          >
+            30
+          </span>
+          /
+          30
+        </div>
+      </div>
+      <div
+        class="styled__StatsBarWrapper-sc-2qqffc-16 dhRZJS"
+      >
+        <div
+          class="styled__SkillsWrapper-y0cxtz-0 jznPFJ"
+        >
+          <div
+            class="styled__CurrentSkill-y0cxtz-1 jfcaXd"
+            width="3"
+          />
+          <div
+            class="styled__PotentialSkill-y0cxtz-2 bixbOC"
+            width="3"
+          />
+          <div
+            class="styled__TotalLine-y0cxtz-3 efTfAL"
+            width="94"
+          />
+        </div>
+      </div>
+      <div
+        class="styled__LabelWrapper-sc-2qqffc-12 jktjAx"
+      >
+        <div
+          class="styled__Label-sc-2qqffc-13 eQNKIS"
+        >
+          Accuracy
+        </div>
+        <div
+          class="styled__Stats-sc-2qqffc-14 Keats"
+        >
+          <span
+            class="styled__StatsColor-sc-2qqffc-15 hscUYO"
+          >
+            71
+          </span>
+          /
+          71
+        </div>
+      </div>
+      <div
+        class="styled__StatsBarWrapper-sc-2qqffc-16 dhRZJS"
+      >
+        <div
+          class="styled__SkillsWrapper-y0cxtz-0 jznPFJ"
+        >
+          <div
+            class="styled__CurrentSkill-y0cxtz-1 iFCPHF"
+            width="7.1"
+          />
+          <div
+            class="styled__PotentialSkill-y0cxtz-2 jTAYPA"
+            width="7.1"
+          />
+          <div
+            class="styled__TotalLine-y0cxtz-3 blkTHc"
+            width="85.8"
+          />
+        </div>
+      </div>
+      <div
+        class="styled__LabelWrapper-sc-2qqffc-12 jktjAx"
+      >
+        <div
+          class="styled__Label-sc-2qqffc-13 eQNKIS"
+        >
+          Composure
+        </div>
+        <div
+          class="styled__Stats-sc-2qqffc-14 Keats"
+        >
+          <span
+            class="styled__StatsColor-sc-2qqffc-15 hscUYO"
+          >
+            43
+          </span>
+          /
+          43
+        </div>
+      </div>
+      <div
+        class="styled__StatsBarWrapper-sc-2qqffc-16 dhRZJS"
+      >
+        <div
+          class="styled__SkillsWrapper-y0cxtz-0 jznPFJ"
+        >
+          <div
+            class="styled__CurrentSkill-y0cxtz-1 bruWzc"
+            width="4.3"
+          />
+          <div
+            class="styled__PotentialSkill-y0cxtz-2 rDjDe"
+            width="4.3"
+          />
+          <div
+            class="styled__TotalLine-y0cxtz-3 exevBS"
+            width="91.4"
+          />
+        </div>
+      </div>
+      <div
+        class="styled__LabelWrapper-sc-2qqffc-12 jktjAx"
+      >
+        <div
+          class="styled__Label-sc-2qqffc-13 eQNKIS"
+        >
+          Stamina
+        </div>
+        <div
+          class="styled__Stats-sc-2qqffc-14 Keats"
+        >
+          <span
+            class="styled__StatsColor-sc-2qqffc-15 hscUYO"
+          >
+            99
+          </span>
+          /
+          99
+        </div>
+      </div>
+      <div
+        class="styled__StatsBarWrapper-sc-2qqffc-16 dhRZJS"
+      >
+        <div
+          class="styled__SkillsWrapper-y0cxtz-0 jznPFJ"
+        >
+          <div
+            class="styled__CurrentSkill-y0cxtz-1 zyYWk"
+            width="9.9"
+          />
+          <div
+            class="styled__PotentialSkill-y0cxtz-2 HmRiq"
+            width="9.9"
+          />
+          <div
+            class="styled__TotalLine-y0cxtz-3 inowfO"
+            width="80.2"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      align="center"
+    >
+      <button
+        class="styled__PracticeButton-sc-2qqffc-18 YcsVG"
+      >
+        PRACTICE
+      </button>
+    </div>
+  </div>
+</div>
+`;

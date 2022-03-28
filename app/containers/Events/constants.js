@@ -1,0 +1,24 @@
+/*
+ *
+ * Events constants
+ *
+ */
+
+export const FETCH_EVENTS = 'app/Events/FETCH';
+export const EVENTS_RECEIVED = 'app/Events/RECEIVED';
+export const FETCH_EVENTS_FAILED = 'app/Events/FETCH_FAILED';
+export const FETCH_GOLFER_EVENTS = 'app/Events/FETCH_GOLFER_EVENTS';
+export const FETCH_GOLFER_EVENTS_RECEIVED =
+  'app/Events/FETCH_GOLFER_EVENTS_RECEIVED';
+export const FETCH_GOLFER_EVENTS_FAILED =
+  'app/Events/FETCH_GOLFER_EVENTS_FAILED';
+
+export const FETCH_PRIVATE_EVENTS = 'app/Events/FETCH_PRIVATE_EVENTS';
+export const CLEAR_PRIVATE_EVENTS = 'app/Events/CLEAR_PRIVATE_EVENTS';
+export const EVENTS_PRIVATE_RECEIVED = 'app/Events/EVENTS_PRIVATE_RECEIVED';
+export const FETCH_PRIVATE_EVENTS_FAILED =
+  'app/Events/FETCH_PRIVATE_EVENTS_FAILED';
+
+export const FETCH_TOURNAMENTS = 'app/Events/FETCH_TOURNAMENTS';
+export const RECEIVED_TOURNAMENTS = 'app/Events/RECEIVED_TOURNAMENTS';
+export const FETCH_FAILED_TOURNAMENTS = 'app/Events/FETCH_FAILED_TOURNAMENTS';

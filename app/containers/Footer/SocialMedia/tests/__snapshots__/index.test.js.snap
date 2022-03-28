@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SocialMedia /> should render and match the snapshot 1`] = `
+<div
+  class="col-span-12 md:col-start-11 md:col-span-2"
+>
+  <div
+    class="md:text-right"
+  >
+    <a
+      class="styled__SocialLink-sc-1984pln-0 jcYxES"
+      href="https://twitter.com/BlockleteGames"
+      target="_blank"
+    >
+      <i
+        class="fab fa-twitter"
+      />
+    </a>
+    <a
+      class="styled__SocialLink-sc-1984pln-0 jcYxES"
+      href="https://discord.gg/XDJAJdr"
+    >
+      <i
+        class="fab fa-discord"
+      />
+    </a>
+  </div>
+</div>
+`;

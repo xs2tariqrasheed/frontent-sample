@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Links /> should render and match the snapshot 1`] = `
+<div
+  class="styled__Wrapper-sc-1uzqntd-0 gSbFnA"
+>
+  <div
+    align="right"
+  >
+    <a
+      class="styled__Link-sc-1uzqntd-1 eAFQtY"
+      href="/terms-of-service"
+    >
+      Terms of Service  
+    </a>
+    <a
+      class="styled__Link-sc-1uzqntd-1 eAFQtY"
+      href="/privacy"
+    >
+      |  Privacy Policy
+    </a>
+  </div>
+</div>
+`;

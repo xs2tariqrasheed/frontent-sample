@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="172px" viewBox="0 0 90 172" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>WhiteArc</title>
+    <g id="3.0---Golfer-Details" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="3.0.0---Golfer-Detail" transform="translate(-889.000000, -1333.000000)" stroke="#EFEEFE" stroke-width="16">
+            <g id="Body" transform="translate(0.000000, 745.000000)">
+                <g id="Competitive-Edge" transform="translate(135.000000, 552.000000)">
+                    <g id="Skill-Arc" transform="translate(762.000000, 0.000000)">
+                        <g id="Skill-Potential-Arc">
+                            <path d="M74,44 C28.8391696,80.8930839 0,137.072825 0,200" id="WhiteArc"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

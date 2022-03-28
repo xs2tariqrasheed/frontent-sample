@@ -1,0 +1,10 @@
+.divcenter {
+  margin: auto;
+  text-align: center;
+  width: 50%;
+}
+
+.gridcontainer {
+  display: grid;
+  justify-content: center;
+}

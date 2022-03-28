@@ -1,0 +1,160 @@
+/* purgecss start ignore */
+@tailwind base;
+
+h1 {
+  @apply text-2xl;
+  @apply font-bold;
+}
+
+h2 {
+  @apply text-xl;
+  @apply font-bold;
+}
+
+h3 {
+  @apply text-lg;
+}
+
+a {
+  @apply text-cornflower;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-display;
+  letter-spacing: 1px;
+  font-weight: normal
+}
+
+p {
+  @apply font-body;
+  @apply text-base;
+  @apply leading-relaxed;
+  font-weight: normal
+}
+
+input {
+  @apply rounded-sm;
+}
+
+.invalid-input {
+  border: 1px solid #ff4d46;
+}
+
+.invalid-text {
+  color: #ff4d46;
+}
+
+.btn {
+  @apply text-black;
+  @apply bg-pale-grey;
+  @apply font-bold;
+  @apply text-sm;
+  @apply p-5;
+  @apply rounded-full;
+  @apply transition;
+  @apply duration-500;
+  @apply ease-in-out;
+}
+
+/*.btn:active, .btn:hover {*/
+/*  @apply bg-gray-500;*/
+/*}*/
+
+.btn:focus {
+  @apply outline-none;
+  /*@apply ring-2;*/
+  /*@apply ring-gray-500;*/
+  /*@apply ring-opacity-50;*/
+  @apply border-transparent;
+}
+
+
+.btn[disabled] {
+  background: linear-gradient(to top, #c7c5db 50%, #e7e6ff 50%);
+  color: #4f47c2;
+  cursor: not-allowed;
+}
+
+.btn[disabled]:hover {
+  background: linear-gradient(to top, #c7c5db 50%, #e7e6ff 50%);
+  transform: none;
+  color: #4f47c2;
+}
+
+.btn.slim {
+  padding: 6px 0;
+}
+
+.btn.btn-outline {
+  border-radius: 2px;
+  border-style: solid;
+  border-width: 2px;
+  font-size: 10px;
+  line-height: 10px;
+  background: transparent;
+  color: #655bf5;
+  border-image-source: linear-gradient(to bottom, #4f47c2 100%, #4f47c2 49%, #3a348f 49%, #3a348f 0%);
+  border-image-slice: 1;
+}
+
+.btn.btn-outline:hover {
+  background: transparent;
+}
+
+
+/**
+ * The !important tag is used throughout here because react-share sets its styles aggressively
+ */
+.share-override-button {
+  background-color: #655bf5 !important;
+  cursor: pointer !important;
+  border-radius: 3px !important;
+  border-bottom-color: #3a348f !important;
+  border-bottom-width: 10px !important;
+  border-bottom-style: solid !important;
+  padding: 0 0.5rem !important;
+  position: relative !important;
+}
+
+.share-override-button:focus, .share-override-button:active {
+  border-bottom: none !important;
+  top: 10px !important;
+}
+
+.right-arrow {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 6px 0 6px 12px;
+  border-color: transparent transparent transparent #ffc430;
+}
+
+a[disabled] {
+  pointer-events: none;
+}
+
+select, input[type="text"] {
+  @apply w-full;
+  @apply p-3;
+  @apply text-gray-700;
+  @apply leading-tight;
+}
+
+.header {
+  box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.49);
+  -webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.49);
+  -moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.49);
+}
+
+.overlapingForm {
+  box-shadow: 0px -2px 5px 0px rgba(0,0,0,0.49);
+  -webkit-box-shadow: 0px -2px 5px 0px rgba(0,0,0,0.49);
+  -moz-box-shadow: 0px -2px 5px 0px rgba(0,0,0,0.49);
+
+}
+
+@tailwind components;
+/* purgecss end ignore */
+
+@tailwind utilities;
+

@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> should render and match the snapshot 1`] = `
+<button
+  class="mb-2 btn font-body font-bold text-base text-center w-auto"
+  type="button"
+/>
+`;
+
+exports[`<Button /> should render and match the snapshot 2`] = `
+<button
+  class="mb-2 btn font-body font-bold text-base text-center w-auto"
+  type="button"
+/>
+`;
+
+exports[`<Button /> should render and match the snapshot 3`] = `
+<button
+  class="mb-2 btn font-body font-bold text-base text-center w-auto"
+  type="button"
+/>
+`;
+
+exports[`<Button /> should render and match the snapshot 4`] = `
+<button
+  class="mb-2 btn font-body font-bold text-base text-center w-auto"
+  type="button"
+/>
+`;
+
+exports[`<Button /> should render and match the snapshot 5`] = `
+<button
+  class="mb-2 btn font-body font-bold text-base text-center w-auto"
+  type="button"
+/>
+`;
